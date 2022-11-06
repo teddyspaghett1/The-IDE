@@ -1,1 +1,12 @@
 print("Hello!")
+
+
+
+
+
+print("Hi")
+
+
+
+
+
